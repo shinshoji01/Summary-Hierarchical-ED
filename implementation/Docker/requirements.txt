@@ -1,2 +1,15 @@
 jupyterlab==3.5.2
 jupyterlab-vim==0.15.1
+numpy==1.26.4
+tgt==1.5
+tqdm==4.46.1
+scikit-learn==1.6.1
+opensmile==2.5.1
+librosa==0.10.2.post1
+pandas==2.2.2
+fastdtw==0.3.4
+pyworld==0.3.4
+pymcd==0.2.1
+scipy==1.14.0
+pillow==11.1.0
+matplotlib==3.10.0
