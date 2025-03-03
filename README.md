@@ -65,3 +65,6 @@ Please cite those papers if effective to your study.
 ```
 NA
 ```
+
+# Contact
+Feel free to contact me if you have any questions (shoinoue@link.cuhk.edu.cn).
