@@ -23,5 +23,10 @@ If you are unfamiliar with Vim, please run the following code before opening Jup
 pip uninstall jupyter-vim
 ```
 
+# TextGrid
+
+To generate TextGrid files for word- and phoneme-level alignments, please visit [this website](https://montreal-forced-aligner.readthedocs.io/en/latest/) to obtain the necessary alignment data for your dataset. I have provided the alignment for the ESD dataset. Download it from [this link](https://cuhko365-my.sharepoint.com/:u:/g/personal/222043003_link_cuhk_edu_cn/EbeIdJnyy_hJlcZ5l3hIZ9sBZ8pumSZ5Mxrdq6IAC7WGkg?e=UJpVWS) and place it into the directory:  
+`Summary-Hierarchical-ED/implementation/Dataset/ESD/`.
+
 # Others
 If you need additional code or have any requests, please feel free to contact me at [shoinoue@link.cuhk.edu.cn](mailto:shoinoue@link.cuhk.edu.cn). I am happy to provide more code upon request.
