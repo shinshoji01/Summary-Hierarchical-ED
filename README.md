@@ -17,7 +17,7 @@ Paper Title                                                                     
 - [4] We further explored the text-based prediction of Hierarchical ED.
 
 # Implementation
-The implementation codes are available at [Summary-Hierarchical-ED/implementation/](https://github.com/shinshoji01/Summary-Hierarchical-ED/implementation)
+The implementation codes are available at [Summary-Hierarchical-ED/implementation/]([https://github.com/shinshoji01/Summary-Hierarchical-ED/implementation](https://github.com/shinshoji01/Summary-Hierarchical-ED/tree/main/implementation))
 
 # Citation
 Please cite those papers if effective to your study.
