@@ -6,7 +6,7 @@ Paper Title                                                                     
 [1] [Hierarchical emotion prediction and control in text-to-speech synthesis](https://arxiv.org/abs/2405.09171)                   | IEEE ICASSP 2024                    | [✔︎](https://shinshoji01.github.io/Text-Sequential-ED-Demo/) |
 [2] [Fine-Grained Quantitative Emotion Editing for Speech Generation](https://arxiv.org/abs/2403.02002)                           | APSIPA ASC 2024                     | [✔︎](https://shinshoji01.github.io/Hierarchical-ED-Demo/) |
 [3] [Hierarchical Control of Emotion Rendering in Speech Synthesis](https://arxiv.org/abs/2412.12498)                             | IEEE Transactions on Affective Computing      | [✔︎](https://shinshoji01.github.io/HED-Demo/)  |
-[4] [Multi-Step Prediction and Control of Hierarchical Emotion Distribution in Text-to-Speech Synthesis]() | Submitted to Transactions       | [✔︎](https://shinshoji01.github.io/multi-step-prediction-HED/)  |
+[4] [Multi-Step Prediction and Control of Hierarchical Emotion Distribution in Text-to-Speech Synthesis](https://arxiv.org/abs/2507.04598) | APSIPA Transactions on Signal and Information Processing      | [✔︎](https://shinshoji01.github.io/multi-step-prediction-HED/)  |
 
 
 - [1] We first proposed Hierarchical ED and incorporated it into the FastSpeech2 framework.
@@ -63,7 +63,15 @@ Please cite those papers if effective to your study.
 ```
 [4] [Multi-Step Prediction and Control of Hierarchical Emotion Distribution in Text-to-Speech Synthesis]()
 ```
-NA
+@misc{inoue2025multisteppredictioncontrolhierarchical,
+      title={Multi-Step Prediction and Control of Hierarchical Emotion Distribution in Text-to-Speech Synthesis}, 
+      author={Sho Inoue and Kun Zhou and Shuai Wang and Haizhou Li},
+      year={2025},
+      eprint={2507.04598},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD},
+      url={https://arxiv.org/abs/2507.04598}, 
+}
 ```
 
 # Contact
